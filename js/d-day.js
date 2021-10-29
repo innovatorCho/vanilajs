@@ -1,4 +1,4 @@
-const dday = document.querySelector("h2.dday");
+const dday = document.querySelector("#dday");
 
 function getChristmasDate() {
 

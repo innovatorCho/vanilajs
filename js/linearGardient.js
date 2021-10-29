@@ -1,4 +1,4 @@
-const click = document.querySelector(".onClick");
+const click = document.querySelector("#onClick");
 const body = document.querySelector("body");
 
 const colors = ["#e7f8b4", "#dd3333", "#e8fbdf", "#9cee76", "#e876ee", "#f3e4f5", "#a496a5", "#1e73be", "#a8d1f4", "#fbfab6", "#eae74c"];
